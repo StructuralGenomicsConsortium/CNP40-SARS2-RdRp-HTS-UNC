@@ -1,8 +1,7 @@
 # CNP40-SARS2-RdRp-HTS-UNC
 
-# CNP21-CHIKVhelicase-Asinex
 
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 40) dedicated to finding hits against SARS-CoV-2 nsP12 RdRp by high-throughput screening of Life Chemicals [5K kinase set](https://lifechemicals.com/downloads).
+An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 40) dedicated to finding hits against SARS-CoV-2 nsP12 RdRp by high-throughput screening of diverse chemical libraries.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
